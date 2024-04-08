@@ -1,6 +1,6 @@
 # Laravel SagePayPi
 
-SagePayPi
+SagePayPi (Opayo)
 
 Insiperd by [sagepay-pi](https://gitlab.com/lumnn/sagepay-pi)
 
