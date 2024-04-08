@@ -24,8 +24,8 @@ use Psr\Http\Message\ResponseInterface;
  */
 class SagePayPi
 {
-    public const LIVE_ENDPOINT = 'https://pi-live.sagepay.com/api/v1/';
-    public const TEST_ENDPOINT = 'https://pi-test.sagepay.com/api/v1/';
+    public const LIVE_ENDPOINT = 'https://live.opayo.eu.elavon.com/api/v1/';
+    public const TEST_ENDPOINT = 'https://sandbox.opayo.eu.elavon.com/api/v1/';
 
     private string $endpoint;
 
